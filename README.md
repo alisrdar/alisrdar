@@ -1,11 +1,43 @@
-- 👋 Hi, I’m @alisrdar
-- 👀 I’m an Aspiring Software Engineer ...
-- 🌱 I’m currently learning MERN Stack : React & JS right now...
-- 💞️ I’m looking to collaborate on FrontEnd web projects...
-- 📫 How to reach me at Linkdin: www.linkedin.com/in/muhammad-ali-95113029b...
-- ⚡ Fun fact: If you ever find yourself in a loop of overthinking : "do it for 2 minutes... "
+## Hey, I'm Muhammad Ali! 🧠💻  
+Welcome to my nerdy corner of the internet 🚀✨
 
-<!---
-alisrdar/alisrdar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### A little about me:
+🧑‍🎓 Final Year CS Student @ NUML Islamabad  
+🧑‍💻 Full-Stack Dev in the making — currently building Finly, a budgeting app 💰  
+🧪 Tinkering with AI & building a personalized career recommender for my FYP  
+📚 Learning in public — sharing my dev & DSA journey online  
+
+---
+
+### 🛠️ Tech Stack:
+
+**Frontend:**  
+`React` ⚛ | `TypeScript` 🟦 | `Tailwind CSS` 🌬 | `Vite` 🚀
+
+**Backend:**  
+`Node.js` 🟢 | `Express` 🚂 | `MongoDB` 🍃 | `JWT` 🔐
+
+**Tools & Other Stuff:**  
+`Docker` 🐳 | `Postman` 📭 | `MySQL` 🐬 | `Chart.js` 📊 | `n8n` ⚙
+
+---
+
+### ⚡ Some Fun Dev Facts:
+🌟 I’m obsessed with clean UIs and meaningful user experiences  
+🌱 Currently freelancing & applying to internships (also building my portfolio site)  
+🧩 I love solving problems — both code-related & the kind coffee can’t fix  
+
+---
+
+### 📬 Let’s connect!
+
+💌 ali.coding.dev@gmail.com  
+🐦 [Twitter/X](https://twitter.com/) (sharing dev tips & side projects soon!)  
+📎 [LinkedIn](https://linkedin.com/in/)  
+
+> *“I build, break, and rebuild — all in the name of learning.”*
+
+---
+
+![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
