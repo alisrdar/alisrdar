@@ -122,7 +122,7 @@ Welcome to my nerdy corner of the internet 🚀✨
 
 ### 📬 Let’s connect!
 
-💌 ali.coding.dev@gmail.com  
+✉️ alimuhammad15870gmail.com
 🐦 [Twitter/X](https://twitter.com/) (sharing dev tips & side projects soon!)  
 📎 [LinkedIn](https://linkedin.com/in/)  
 
