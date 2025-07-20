@@ -1,4 +1,4 @@
-## Hey, I'm Muhammad Ali! 🧠💻  
+## Hey, I'm Muhammad Ali! 🧠💻
 Welcome to my nerdy corner of the internet 🚀✨
 
 ### A little about me:
@@ -57,7 +57,7 @@ Welcome to my nerdy corner of the internet 🚀✨
       </a>
       <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
         <img 
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" 
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg 
           alt="Node.js" 
           width="40" 
           height="40"/>
